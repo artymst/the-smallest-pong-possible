@@ -36,6 +36,8 @@ This is possibly the **smallest 2-paddle Pong** in existence — just 422 charac
     ```
 2. Open in your favorite browser and play!
 
+1b. Or go to https://artymst.github.io/the-smallest-pong-possible/
+
 ---
 
 ## Controls
