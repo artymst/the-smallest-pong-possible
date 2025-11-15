@@ -1,6 +1,6 @@
 # 🏓 TSPP
 
-This is possibly the **smallest 2-paddle Pong** in existence — just 422 characters of HTML!  
+This is possibly the **smallest 2-paddle Pong** in existence — just 422 characters of HTML and 1KB filesize!  
 - **Mouse** controls left paddle, **Arrow keys** for right  
 - Live **score counter**
 - **Black background / white paddles & ball**
